@@ -10,7 +10,7 @@ This is the first step of our reverse engineering roadmap. Roppers exists to mak
 
 After years of trying to teach students and trying to teach ourselves, we came up with a curriculum to learn C, Assembly, debugging, and reverse-engineering all at the same time. It is a lot of work, but is the best way to learn out there.
 
-1. Finish the h0mbre C course as described here: <https://www.hoppersroppers.org/roadmap/training/c.html>
+1. Finish the h0mbre C course as described : [here](roadmap/C)
 2. Once you have finished that course, begin <https://github.com/hoppersroppers/nightmare>
    * The Nightmare course is our main binary exploitation track, but the first 4 chapters are about learning the tools and RE. Work throught the first 4 sections until you get to the overflows section, then come on back to RE. 
 3. Now we work back through h0mbre C using GDB and Ghidra for every assignment. This takes a while, but is a really good way to get familar with how to do Linux reverse engineering and become comfortable with disassembly.
