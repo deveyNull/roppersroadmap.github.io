@@ -80,12 +80,12 @@ I don't care about web exploitation. Go and learn bug bounty somewhere else.
 
 | Blog Page                                                         | Comments          |  
 |------                                                             |------             | 
-[Ropper's How to Hack](/blog/howtobeahacker)                        |A replacement for the famous hacker-how-to that is actually meant for beginners.|
-|[Ropper's Roadmap](/roadmap)                                       |The roadmap for students to follow so they never have to look for the correct next step or good resources ever again.|
-|[How to Start Your Own CTF Team](/blog/startCTFteam)               |A guide for high school and college students who are interested in starting a CTF team at their school.
+[Ropper's How to Hack](/blog/howToBeAHacker)                        |A replacement for the famous hacker-how-to that is actually meant for beginners.|
+|[Ropper's Roadmap](/roadmap/home)                                       |The roadmap for students to follow so they never have to look for the correct next step or good resources ever again.|
+|[How to Start Your Own CTF Team](/blog/startCTFTeam)               |A guide for high school and college students who are interested in starting a CTF team at their school.
 |[How to Join a CTF Team](/blog/joinCTFTeam)                        |A writeup on the experience of joining a CTF team for a complete beginner.|
-|[How to Train Your CTF Team With Roppers](/blog/trainCTFteam)      |A writeup on the experience of joining a CTF team for a complete beginner.|
-|[Competency Based Cyber Education](/2017/05/11/whitepaper/)        |A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site, though it is a bit boring.|
+|[How to Train Your CTF Team With Roppers](/blog/trainCTFTeam)      |A writeup on the experience of joining a CTF team for a complete beginner.|
+|[Competency Based Cyber Education](/blog/whitepaper)        |A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site, though it is a bit boring.|
 
 <hr>
 
@@ -98,7 +98,7 @@ I don't care about web exploitation. Go and learn bug bounty somewhere else.
 |[Things Worth Doing to Get Good at Security](/blog/thingsWorthDoing)       |My detailed game plan of things worth doing for anyone who wants to become good at security and get a job.
 |[Infosec Cert Roadmap](/roadmap/infosecCert)                               |Don't get me wrong, I'd prefer you get good at security rather than study for certs, but hey, here we are.
 |[Interesting Projects](/blog/interestingProjects)                          |My brief list of interesting projects that are worth doing.
-|[Beginner's Guide to CTFs](blog/learnCTF)                                  |A guide to getting started playing in CTFs. 
+|[Beginner's Guide to CTFs]()                                               |A guide to getting started playing in CTFs. > 
 
 <hr>
 
