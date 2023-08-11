@@ -8,7 +8,7 @@ permalink: roadmap/python
 
 Programming is a massive field, and while I’m a developer in my day job and love teaching programming, I don't want to teach you programming as part of Hopper’s Roppers. There are a lot of other people online who are focused on programming exclusively so you should learn from them… but hey, [there’s no rush](http://norvig.com/21-days.html). 
 
-This is my brief post on what I think is the best way to learn Python to the level required for security and CTFs. If you are interested in how to learn C, the language of hackers, [check out this post.](https://www.hoppersroppers.org/roadmap/training/c.html)
+This is my brief post on what I think is the best way to learn Python to the level required for security and CTFs. If you are interested in how to learn C, the language of hackers, [check out this post.](roadmap/C)
 
 
 ### Codecademy Python 2
