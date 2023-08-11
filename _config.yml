@@ -1,0 +1,22 @@
+# Setup
+title:               Roadmap
+tagline:             'by HoppersRoppers'
+description:         'This is our framework to get any beginner the foundational knowledge they need to be successful in any corner of security industry.'
+url:                 https://manaspz.github.io/pages
+baseurl:             ''
+paginate:            1
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Dennis Devey
+  url:               https://twitter.com/deveynull
+  email:             contact@hoppersroppers.org
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-146052-15

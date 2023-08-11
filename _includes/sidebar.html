@@ -1,0 +1,52 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+     <!-- Toggleable sidebar -->
+     <div class="sidebar" id="sidebar">
+         <div class="sidebar-item">
+             <p>{{ site.description }}</p>
+         </div>
+     
+         <nav class="sidebar-nav">
+             <a class="sidebar-nav-item" href="{{ '/roadmap/home' | absolute_url }}">Roadmap</a>
+             <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}"
+                 href="{{ '/' | absolute_url }}">Blog Home</a>
+     
+             {% comment %}
+             The code below dynamically generates a sidebar nav of pages with
+             `layout: page` in the front-matter. See readme for usage.
+             {% endcomment %}
+     
+             {% assign pages_list = site.pages | sort:"url" %}
+             {% for node in pages_list %}
+             {% if node.title != null %}
+             {% if node.layout == "page" %}
+             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                 href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+             {% endif %}
+             {% endif %}
+             {% endfor %}          
+             <a class="sidebar-nav-item" href="{{ '/archive' | absolute_url }}">📁 Archive</a>
+             <a class="sidebar-nav-item" href="http://roppers.org/">💻 Main Courses Site</a>
+             <a class="sidebar-nav-item" href="https://github.com/hoppersroppers/roadmap/">🔗 View on GitHub</a>
+         </nav>
+         <div class="sidebar-item">
+             <p>
+             <div style="display: flex; align-items: center;">
+                 <a href="https://www.roppers.org/pages/about">
+                     <img src="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/compass.png" width="50" style="margin-right: 20px;">
+                 </a>
+                 <a href="https://join.slack.com/t/hoppersroppers/shared_invite/zt-uqpgyl1e-wbZxSflcPsxQHmauT3TnNA">
+                     <img src="https://raw.githubusercontent.com/manaspz/pages/gh-pages/slack.svg" width="25" style="margin-right: 20px;">
+                 </a>
+                 <a href="mailto:d.m.devey@gmail.com">
+                     <img src="https://raw.githubusercontent.com/manaspz/pages/gh-pages/email.svg" width="25">
+                 </a>
+             </div>
+             &copy; {{ site.time | date: '%Y' }}. All rights reserved by HoppersRoppers.
+             </p>
+         </div>
+     </div>
+     
+     </div>
