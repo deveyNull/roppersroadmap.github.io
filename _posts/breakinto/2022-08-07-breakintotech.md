@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Break into tech
-permalink: /blog/breakintotech
+permalink: /blog/breakIntoTech
 ---
 
 # Roppers How to Break into Tech
