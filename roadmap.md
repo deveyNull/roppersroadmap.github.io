@@ -61,7 +61,7 @@ I don't care about web exploitation. Go and learn bug bounty somewhere else.
 
 | All Roadmaps and Guides                           | 
 |------                                             |
-|[C](roadmap/C)                                    |
+|[C](/roadmap/C)                                    |
 |[Cryptography](/training/crypto)                   |
 |[Firmware](/training/firmware)                     |
 |[Forensics](/training/forensics)                   |

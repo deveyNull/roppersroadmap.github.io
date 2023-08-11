@@ -2,7 +2,7 @@
 title:               Roadmap
 tagline:             'by HoppersRoppers'
 description:         'This is our framework to get any beginner the foundational knowledge they need to be successful in any corner of security industry.'
-url:                 https://manaspz.github.io/pages
+url:                 https://manaspz.github.io
 baseurl:             ''
 paginate:            1
 permalink:           pretty
