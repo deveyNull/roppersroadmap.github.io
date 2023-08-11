@@ -112,6 +112,8 @@ I don't care about web exploitation. Go and learn bug bounty somewhere else.
 |[CTF](https://www.roppers.org/courses/ctf)                                                         |
 |[Technical Security Fundamentals](https://www.roppers.org/courses/technical-security-fundamentals) |
 
+---
+
 <!--Mail chimp newsletter subscription-->
 <div id="mc_embed_signup">
     <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4d03cc5db483966f7e0fe17cc&amp;id=8d9620c4b7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
