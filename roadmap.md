@@ -13,8 +13,8 @@ There are limitless resources out there to teach you the basics of computing and
 
 Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself entirely. With the right security learning path, anyone can teach themselves whatever they need to know, but without one they might be paddling the wrong direction.
 
-* If you're looking for our recommendations on how to get a job in security, [this is the link for you](/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge to future employers, without certs.
-* If you are interested in certificates, [this is our roadmap for earning those](/infosecRoadmap).
+* If you're looking for our recommendations on how to get a job in security, [this is the link for you](/blog/breakIntoSecurity). It focuses on projects and demonstrating knowledge to future employers, without certs.
+* If you are interested in certificates, [this is our roadmap for earning those](/roadmap/infosecCert).
 
 On the other hand, the Ropper's Roadmap, which is where you are right now, is entirely focused on learning new material in the most efficient and entertaining way possible. It's a work in progress and will have you learn a great deal of very varied information. This is focused on how to teach yourself anything, and we provide the steps you need to take to learn. 
 
@@ -80,12 +80,12 @@ I don't care about web exploitation. Go and learn bug bounty somewhere else.
 
 | Blog Page                                                         | Comments          |  
 |------                                                             |------             | 
-[Ropper's How to Hack](/blog/howtobeahacker)                             |A replacement for the famous hacker-how-to that is actually meant for beginners.|
-|[Ropper's Roadmap](/roadmap)                                               |The roadmap for students to follow so they never have to look for the correct next step or good resources ever again.|
-|[How to Start Your Own CTF Team](/blog/startCTFteam)                 |A guide for high school and college students who are interested in starting a CTF team at their school.
-|[How to Join a CTF Team](/blog/joinCTFTeam)                          |A writeup on the experience of joining a CTF team for a complete beginner.|
-|[How to Train Your CTF Team With Roppers](/blog/trainCTFteam)        |A writeup on the experience of joining a CTF team for a complete beginner.|
-|[Competency Based Cyber Education](/2017/05/11/whitepaper/)         |A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site, though it is a bit boring.|
+[Ropper's How to Hack](/blog/howtobeahacker)                        |A replacement for the famous hacker-how-to that is actually meant for beginners.|
+|[Ropper's Roadmap](/roadmap)                                       |The roadmap for students to follow so they never have to look for the correct next step or good resources ever again.|
+|[How to Start Your Own CTF Team](/blog/startCTFteam)               |A guide for high school and college students who are interested in starting a CTF team at their school.
+|[How to Join a CTF Team](/blog/joinCTFTeam)                        |A writeup on the experience of joining a CTF team for a complete beginner.|
+|[How to Train Your CTF Team With Roppers](/blog/trainCTFteam)      |A writeup on the experience of joining a CTF team for a complete beginner.|
+|[Competency Based Cyber Education](/2017/05/11/whitepaper/)        |A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site, though it is a bit boring.|
 
 <hr>
 
@@ -104,13 +104,13 @@ I don't care about web exploitation. Go and learn bug bounty somewhere else.
 
 ### Courses at roppers.org
 
-| Course                                                            |                
-|------                                                             | 
-|[Computing Fundamentals](https://roppers.org/fundamentals)         |
-|[Security Fundamentals](https://roppers.org/security)              |
-|[Practical Networking](https://www.roppers.org/courses/networking) |
-|[CTF](https://www.roppers.org/courses/ctf)                         |
-|[Technical Security Fundamentals](https://www.roppers.org/courses/technical-security-fundamentals)|
+| Course                                                                                            |                
+|------                                                                                             | 
+|[Computing Fundamentals](https://roppers.org/fundamentals)                                         |
+|[Security Fundamentals](https://roppers.org/security)                                              |
+|[Practical Networking](https://www.roppers.org/courses/networking)                                 |
+|[CTF](https://www.roppers.org/courses/ctf)                                                         |
+|[Technical Security Fundamentals](https://www.roppers.org/courses/technical-security-fundamentals) |
 
 <!--Mail chimp newsletter subscription-->
 <div id="mc_embed_signup">
